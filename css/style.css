@@ -129,7 +129,7 @@ a {
 /* Navbar */
 .site-logo a {
   text-transform: uppercase;
-  letter-spacing: .1em
+  letter-spacing: .1em;
   font-size: 22px;
   color: #000 !important;
   font-weight: 100; }
@@ -1008,7 +1008,7 @@ a {
       .featured-hero-product .price {
         font-size: 1.5rem; } }
     .featured-hero-product .price del {
-      margin-left: 10px;
+      margin-left: 2px;
       color: #6c757d; }
 
 .border {
