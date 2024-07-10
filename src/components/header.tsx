@@ -22,7 +22,7 @@ export default function Header() {
           <div className="main-nav d-none d-lg-block">
             <nav className="site-navigation text-right text-md-center" role="navigation">
               <ul className="site-menu js-clone-nav d-none d-lg-block">
-                <li className="active"><a href="index.html">Home</a></li>
+                <li className="active"><a href="/">Home</a></li>
                 <li className="has-children">
                   <a href="#">Products</a>
                   <ul className="dropdown">
@@ -41,8 +41,8 @@ export default function Header() {
 
                   </ul>
                 </li>
-                <li><a href="about.html">About</a></li>
-                <li><a href="contact.html">Contact</a></li>
+                <li><a href="/about-us">About</a></li>
+                <li><a href="/contact-us">Contact</a></li>
               </ul>
             </nav>
           </div>
