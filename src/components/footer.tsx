@@ -37,9 +37,10 @@ export default function Footer (){
                 <div className="block-5 mb-5">
                   <h3 className="footer-heading mb-4">Contact Info</h3>
                   <ul className="list-unstyled">
-                    <li className="address">203 Fake St. Mountain View, San Francisco, California, USA</li>
-                    <li className="phone"><a href="tel://23923929210">+2 392 3929 210</a></li>
-                    <li className="email">emailaddress@domain.com</li>
+                    <li className="address">Cosmo Life Saving Drugs Private Limited
+                    Plot 62, Budhanpur, Panchkula - 134113, Haryana, India</li>
+                    <li className="phone"><a href="tel://23923929210">+91 08047310007</a></li>
+                   
                   </ul>
                 </div>
                 

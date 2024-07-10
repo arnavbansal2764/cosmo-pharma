@@ -31,13 +31,16 @@ export default function Hero() {
                             <div className="banner-wrap bg-primary h-100">
                                 <a href="#" className="h-100">
                                     <h5>
-                                        Free <br /> Shipping
+                                        Legal Status of Firm
                                     </h5>
                                     <p>
-                                        Amet sit amet dolor
-                                        <strong>
-                                            Lorem, ipsum dolor sit amet consectetur adipisicing.
-                                        </strong>
+                                        Limited Company (Ltd./Pvt.Ltd.)
+                                    </p>
+                                    <h5>
+                                        Annual Turnover
+                                    </h5>
+                                    <p>
+                                        Rs. 1 - 2 Crore
                                     </p>
                                 </a>
                             </div>
@@ -46,13 +49,16 @@ export default function Hero() {
                             <div className="banner-wrap h-100">
                                 <a href="#" className="h-100">
                                     <h5>
-                                        Season <br /> Sale 50% Off
+                                        Total Number of Employees
                                     </h5>
                                     <p>
-                                        Amet sit amet dolor
-                                        <strong>
-                                            Lorem, ipsum dolor sit amet consectetur adipisicing.
-                                        </strong>
+                                        Upto 10 People
+                                    </p>
+                                    <h5>
+                                        Year of Establishment
+                                    </h5>
+                                    <p>
+                                        2021
                                     </p>
                                 </a>
                             </div>
@@ -61,13 +67,18 @@ export default function Hero() {
                             <div className="banner-wrap bg-warning h-100">
                                 <a href="#" className="h-100">
                                     <h5>
-                                        Buy <br /> A Gift Card
+                                        GST Number
                                     </h5>
                                     <p>
-                                        Amet sit amet dolor
-                                        <strong>
-                                            Lorem, ipsum dolor sit amet consectetur adipisicing.
-                                        </strong>
+
+                                        06AAJCC7077P1ZX
+
+                                    </p>
+                                    <h5>
+                                        CIN Number
+                                    </h5>
+                                    <p>
+                                        U24299HR2021PTC097127
                                     </p>
                                 </a>
                             </div>
