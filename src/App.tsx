@@ -6,6 +6,7 @@ import Home from './components/home';
 import Footer from './components/footer';
 import AboutUs from './components/aboutus';
 import ContactForm from './components/contactform';
+import Product from './components/products';
 function App() {
   const [isLoading, setIsLoading] = useState(true);
 
@@ -28,6 +29,7 @@ function App() {
                 <Route path='/' element={<Home />} />
                 <Route path='/about-us' element={<AboutUs />} />
                 <Route path='/contact-us' element={<ContactForm/>}/>
+                <Route path='/products' element={<Product/>}/>
               </Routes>
               <Footer />
             </div>
