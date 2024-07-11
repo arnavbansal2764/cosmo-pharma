@@ -10,7 +10,7 @@ export default function Reviews() {
       <div className="container">
         <div className="row align-items-stretch">
           <div className="col-lg-6 mb-5 mb-lg-0">
-            <a href="#" className="banner-1 h-100 d-flex" style={{ backgroundImage: `url(${bg2})` }}>
+            <a className="banner-1 h-100 d-flex" style={{ backgroundImage: `url(${bg2})` }}>
               <div className="banner-1-inner align-self-center">
                 <h2>Ratings & Reviews</h2>
                 <p>
@@ -23,7 +23,7 @@ export default function Reviews() {
           <div className="col-lg-6 mb-5 mb-lg-0">
             <div className="row">
               <div className="col-md-6 mb-4">
-                <a href="#" className="banner-1 h-100 d-flex" style={{ backgroundImage: `url(${reviewBg})` }}>
+                <a className="banner-1 h-100 d-flex" style={{ backgroundImage: `url(${reviewBg})` }}>
                   <div className="ml-auto align-self-center">
                     <Star/>
                     <Star/>
@@ -38,7 +38,7 @@ export default function Reviews() {
                 </a>
               </div>
               <div className="col-md-6 mb-4">
-                <a href="#" className="banner-1 h-100 d-flex" style={{ backgroundImage: `url(${reviewBg})` }}>
+                <a className="banner-1 h-100 d-flex" style={{ backgroundImage: `url(${reviewBg})` }}>
                   <div className="ml-auto align-self-center">
                   <Star/>
                     <Star/>
@@ -51,7 +51,7 @@ export default function Reviews() {
                 </a>
               </div>
               <div className="col-md-6 mb-4">
-                <a href="#" className="banner-1 h-100 d-flex" style={{ backgroundImage: `url(${reviewBg})` }}>
+                <a className="banner-1 h-100 d-flex" style={{ backgroundImage: `url(${reviewBg})` }}>
                   <div className="ml-auto align-self-center">
                   <Star/>
                     <Star/>
@@ -64,7 +64,7 @@ export default function Reviews() {
                 </a>
               </div>
               <div className="col-md-6 mb-4">
-                <a href="#" className="banner-1 h-100 d-flex" style={{ backgroundImage: `url(${reviewBg})` }}>
+                <a className="banner-1 h-100 d-flex" style={{ backgroundImage: `url(${reviewBg})` }}>
                   <div className="ml-auto align-self-center">
                   <Star/>
                     <Star/>

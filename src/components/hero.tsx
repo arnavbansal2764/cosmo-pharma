@@ -15,7 +15,7 @@ export default function Hero() {
                                 </h2>
                                 <h1>Welcome To Cosmo Life Saving Drugs Private Limited</h1>
                                 <p>
-                                    <a href="#" className="btn btn-primary px-5 py-3">
+                                    <a href="/products" className="btn btn-primary px-5 py-3">
                                         Shop Now
                                     </a>
                                 </p>
@@ -29,7 +29,7 @@ export default function Hero() {
                     <div className="row align-items-stretch section-overlap">
                         <div className="col-md-6 col-lg-4 mb-4 mb-lg-0">
                             <div className="banner-wrap bg-primary h-100">
-                                <a href="#" className="h-100">
+                                <a className="h-100">
                                     <h5>
                                         Legal Status of Firm
                                     </h5>
@@ -47,7 +47,7 @@ export default function Hero() {
                         </div>
                         <div className="col-md-6 col-lg-4 mb-4 mb-lg-0">
                             <div className="banner-wrap h-100">
-                                <a href="#" className="h-100">
+                                <a className="h-100">
                                     <h5>
                                         Total Number of Employees
                                     </h5>
@@ -65,7 +65,7 @@ export default function Hero() {
                         </div>
                         <div className="col-md-6 col-lg-4 mb-4 mb-lg-0">
                             <div className="banner-wrap bg-warning h-100">
-                                <a href="#" className="h-100">
+                                <a className="h-100">
                                     <h5>
                                         GST Number
                                     </h5>

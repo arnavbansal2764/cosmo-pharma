@@ -62,7 +62,7 @@ export default function Header() {
             </nav>
           </div>
           <div className="icons">
-            <a href="#" className="site-menu-toggle js-menu-toggle ml-3 d-inline-block d-lg-none"><span
+            <a className="site-menu-toggle js-menu-toggle ml-3 d-inline-block d-lg-none"><span
               className="icon-menu"></span></a>
           </div>
         </div>
