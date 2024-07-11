@@ -1,5 +1,4 @@
 import logoStore from '../images/logo_store.jpg';
-import bg1 from '../images/bg_1.jpg';
 import reviewBg from '../images/Bg-review.jpg'
 export default function Header() {
 
