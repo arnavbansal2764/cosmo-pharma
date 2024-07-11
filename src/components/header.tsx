@@ -1,15 +1,17 @@
 import logoStore from '../images/logo_store.jpg';
+import bg1 from '../images/bg_1.jpg';
+import reviewBg from '../images/Bg-review.jpg'
 export default function Header() {
 
   return (
-    <div className="site-navbar py-2">
+    <div className="site-navbar py-2" style={{ backgroundImage: `url(${reviewBg})` }}>
 
       <div className="container">
         <div className="d-flex align-items-center justify-content-between">
 
 
           <div className="flex items-center text-center">
-            
+
             <img
               src={logoStore}
               className="rounded-full "
@@ -26,18 +28,32 @@ export default function Header() {
                 <li className="has-children">
                   <a href="#">Products</a>
                   <ul className="dropdown">
-                    <li><a href="#">Supplements</a></li>
-                    <li className="has-children">
-                      <a href="#">Vitamins</a>
-                      <ul className="dropdown">
-                        <li><a href="#">Supplements</a></li>
-                        <li><a href="#">Vitamins</a></li>
-                        <li><a href="#">Diet &amp; Nutrition</a></li>
-                        <li><a href="#">Tea &amp; Coffee</a></li>
-                      </ul>
-                    </li>
-                    <li><a href="#">Diet &amp; Nutrition</a></li>
-                    <li><a href="#">Tea &amp; Coffee</a></li>
+                    <li><a href="#">Pharmaceutical Tablets</a></li>
+                    <li><a href="#">Ayurvedic Pharmaceutical Syrup</a></li>
+                    <li><a href="#">Pharma Pcd Franchise</a></li>
+                    <li><a href="#">Pharmaceutical Capsules</a></li>
+                    <li><a href="#">Pharmaceutical Injection</a></li>
+                    <li><a href="#">Soft Gelatin Capsule</a></li>
+                    <li><a href="#">Oral Suspensions</a></li>
+                    <li><a href="#">Dry Syrup</a></li>
+                    <li><a href="#">Eye Ear And Nasal Drops</a></li>
+                    <li><a href="#">Pcd Pharma Franchise</a></li>
+                    <li><a href="#">Pharmaceutical Tablet</a></li>
+                    <li><a href="#">Ayurvedic Syrup</a></li>
+                    <li><a href="#">Pharmaceutical Syrup</a></li>
+                    <li><a href="#">Pharmaceutical Ointment</a></li>
+                    <li><a href="#">Antibiotic Medicines</a></li>
+                    <li><a href="#">Pharmaceutical Injectables</a></li>
+                    <li><a href="#">Amoxycillin</a></li>
+                    <li><a href="#">Pharmaceutical Injections</a></li>
+                    <li><a href="#">Aqua Probiotics</a></li>
+                    <li><a href="#">Tablets</a></li>
+                    <li><a href="#">Montelukast Sodium</a></li>
+                    <li><a href="#">Protein Powder & Energy</a></li>
+                    <li><a href="#">Immunity Booster</a></li>
+                    <li><a href="#">Eye Drops</a></li>
+                    <li><a href="#">Ophthalmic Solutions</a></li>
+                    <li><a href="#">Pharmaceutical Drops</a></li>
 
                   </ul>
                 </li>
